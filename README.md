@@ -1,8 +1,8 @@
 # HKNChallenge
 
-@Author: Catherine Hu, Alexander Wu \
+@Author: Catherine Hu, Alexander Wu
 
-Tasks: \
+Tasks:
 - [ ] MySQL DB storing all candidates' challenge history (completed or requested as well?) 
       (How to link to google spreadsheet? Potential options: JDBC service, or commercial options like Zapier)
 - [ ] Keep/modify exisiting code for candidate asking officer for confirmation
